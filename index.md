@@ -38,3 +38,4 @@ Los post-mortems orientados al aprendizaje fortalecen la mejora continua.
 El feedback respetuoso acelera la resolución de problemas y mejora el clima de trabajo.
 Como resultado, el equipo incorporó nuevas plantillas para documentación técnica y una revisión periódica de la documentación antes de comenzar cada Sprint.
   
+Update conclusion
