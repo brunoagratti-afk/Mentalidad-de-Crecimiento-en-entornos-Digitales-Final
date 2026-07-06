@@ -31,7 +31,7 @@ Mejorar la comunicación entre Backend y QA durante el Sprint.
 
 Aprendizajes
 Este incidente permitió reforzar varias prácticas importantes para el trabajo colaborativo.
-La documentación actualizada evita bloqueos innecesarios.
+La documentación actualizada evita bloqueos innecesario
 La comunicación asincrónica reduce reuniones y mejora la trazabilidad.
 Los comentarios claros en tickets facilitan el trabajo entre distintos equipos.
 Los post-mortems orientados al aprendizaje fortalecen la mejora continua.
@@ -41,3 +41,5 @@ Como resultado, el equipo incorporó nuevas plantillas para documentación técn
 Update conclusion
 
 Improve feedback reflection
+
+docs: improve lessons learned section
